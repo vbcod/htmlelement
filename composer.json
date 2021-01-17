@@ -1,0 +1,12 @@
+{
+    "name": "vbcod/htmlelement",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.1.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vbcod\\": "src"
+        }
+    }
+}
